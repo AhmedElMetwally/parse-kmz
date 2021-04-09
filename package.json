@@ -19,7 +19,7 @@
   "dependencies": {
     "request": "^2.88.0",
     "togeojson": "^0.16.0",
-    "unzip2": "^0.2.5",
+    "unzipper": "^0.10.11",
     "xmldom": "^0.1.27"
   },
   "devDependencies": {
